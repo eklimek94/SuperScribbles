@@ -1,0 +1,37 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+>
+
+
+    <item
+        android:id="@+id/erase"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@mipmap/delete2"
+        />
+
+
+
+
+    <item
+        android:id="@+id/microphone"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@mipmap/microphone2"
+        />
+
+    <item
+        android:id="@+id/screenShot"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@mipmap/camera"
+        />
+
+    <item
+        android:id="@+id/help"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@mipmap/help"
+        />
+</menu>

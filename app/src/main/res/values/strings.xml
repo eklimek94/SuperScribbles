@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Super Scribbles</string>
+
+        <string name="action_settings">Settings</string>
+    <string name="help_menu">Voice Controls:\n\n\n
+
+
+        Colors:         \n\n
+            SAY -RED-   \n
+            SAY -BLUE-  \n
+            SAY -GREEN- \n
+            SAY -BLACK- \n
+            SAY -PINK-  \n
+            SAY -GRAY-  \n
+            SAY -YELLOW-    \n
+            SAY -WHITE- \n\n
+        DELETE ALL:     \n\n
+            SAY -ERASE- \n
+            SAY -CLEAR- \n
+            SAY -DELETE \n\n
+        Backgrounds:    \n\n
+            SAY -CAT-   \n
+            SAY -DOG-   \n
+            SAY -FISH-  \n
+            SAY -ELEPHANT-  \n
+            SAY -MOUSE- \n\n
+
+
+
+    </string>
+</resources>
